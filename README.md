@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-If I helped you, please consider supporting my work: https://sweetalert2.github.io/#donations
+Become my 14th sponsor and get my gratitude and personal support with SweetAlert2 if needed: https://github.com/sponsors/limonte
+
+Sponsors who are contributing with $19/month or more will be listed in https://sweetalert2.github.io 🏆 
 
 <!--
 **limonte/limonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
