@@ -6,8 +6,8 @@ Sponsors who are contributing with $19/month or more will be listed in https://s
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2875](https://github.com//FlowCrypt/flowcrypt-browser/issues/2875) in [FlowCrypt/flowcrypt-browser](https://github.com//FlowCrypt/flowcrypt-browser)
-2. 💪 Opened PR [#2875](https://github.com//FlowCrypt/flowcrypt-browser/pull/2875) in [FlowCrypt/flowcrypt-browser](https://github.com//FlowCrypt/flowcrypt-browser)
-3. ❗️ Closed issue [#2025](https://github.com//sweetalert2/sweetalert2/issues/2025) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-4. 🗣 Commented on [#2025](https://github.com//sweetalert2/sweetalert2/issues/2025) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-5. ❗️ Closed issue [#2024](https://github.com//sweetalert2/sweetalert2/issues/2024) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+2. 🗣 Commented on [#2875](https://github.com//FlowCrypt/flowcrypt-browser/issues/2875) in [FlowCrypt/flowcrypt-browser](https://github.com//FlowCrypt/flowcrypt-browser)
+3. 💪 Opened PR [#2875](https://github.com//FlowCrypt/flowcrypt-browser/pull/2875) in [FlowCrypt/flowcrypt-browser](https://github.com//FlowCrypt/flowcrypt-browser)
+4. ❗️ Closed issue [#2025](https://github.com//sweetalert2/sweetalert2/issues/2025) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+5. 🗣 Commented on [#2025](https://github.com//sweetalert2/sweetalert2/issues/2025) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
 <!--END_SECTION:activity-->
