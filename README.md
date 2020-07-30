@@ -11,3 +11,5 @@ Sponsors who are contributing with $19/month or more will be listed in https://s
 4. 🗣 Commented on [#2875](https://github.com//FlowCrypt/flowcrypt-browser/issues/2875) in [FlowCrypt/flowcrypt-browser](https://github.com//FlowCrypt/flowcrypt-browser)
 5. 🗣 Commented on [#2875](https://github.com//FlowCrypt/flowcrypt-browser/issues/2875) in [FlowCrypt/flowcrypt-browser](https://github.com//FlowCrypt/flowcrypt-browser)
 <!--END_SECTION:activity-->
+
+![](https://github-readme-stats.vercel.app/api?username=limonte&theme=vue&show_icons=true)
