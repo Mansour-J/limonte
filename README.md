@@ -6,10 +6,10 @@ Sponsors who are contributing with $19/month or more will be listed in https://s
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2930](https://github.com//FlowCrypt/flowcrypt-browser/issues/2930) in [FlowCrypt/flowcrypt-browser](https://github.com//FlowCrypt/flowcrypt-browser)
-2. 🗣 Commented on [#2030](https://github.com//sweetalert2/sweetalert2/issues/2030) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-3. 🗣 Commented on [#2031](https://github.com//sweetalert2/sweetalert2/issues/2031) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-4. 🗣 Commented on [#2033](https://github.com//sweetalert2/sweetalert2/issues/2033) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-5. ❗️ Opened issue [#2043](https://github.com//sweetalert2/sweetalert2/issues/2043) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+2. ❗️ Opened issue [#814](https://github.com//digitalbazaar/forge/issues/814) in [digitalbazaar/forge](https://github.com//digitalbazaar/forge)
+3. 🗣 Commented on [#2930](https://github.com//FlowCrypt/flowcrypt-browser/issues/2930) in [FlowCrypt/flowcrypt-browser](https://github.com//FlowCrypt/flowcrypt-browser)
+4. 🗣 Commented on [#2030](https://github.com//sweetalert2/sweetalert2/issues/2030) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+5. 🗣 Commented on [#2031](https://github.com//sweetalert2/sweetalert2/issues/2031) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
 <!--END_SECTION:activity-->
 
 ![](https://github-readme-stats.vercel.app/api?username=limonte&theme=vue&show_icons=true)
