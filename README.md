@@ -6,10 +6,10 @@ Sponsors who are contributing with $19/month or more will be listed in https://s
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-2. 🗣 Commented on [#1881](https://github.com//sweetalert2/sweetalert2/issues/1881) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-3. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-4. 🗣 Commented on [#814](https://github.com//digitalbazaar/forge/issues/814) in [digitalbazaar/forge](https://github.com//digitalbazaar/forge)
-5. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+2. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+3. 🗣 Commented on [#1881](https://github.com//sweetalert2/sweetalert2/issues/1881) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+4. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+5. 🗣 Commented on [#814](https://github.com//digitalbazaar/forge/issues/814) in [digitalbazaar/forge](https://github.com//digitalbazaar/forge)
 <!--END_SECTION:activity-->
 
 ![](https://github-readme-stats.vercel.app/api?username=limonte&theme=vue&show_icons=true)
