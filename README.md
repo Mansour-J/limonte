@@ -5,10 +5,10 @@ Become my sponsor and get my gratitude and **personal support** with SweetAlert2
 Sponsors who are contributing with $19/month or more will be listed in https://sweetalert2.github.io 🏆 (100K unique visitors per month!)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2045](https://github.com//sweetalert2/sweetalert2/pull/2045) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-2. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-3. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
-4. 🗣 Commented on [#1881](https://github.com//sweetalert2/sweetalert2/issues/1881) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+1. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+2. 🎉 Merged PR [#2045](https://github.com//sweetalert2/sweetalert2/pull/2045) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+3. ❗️ Closed issue [#1942](https://github.com//sweetalert2/sweetalert2/issues/1942) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
+4. 💪 Opened PR [#2045](https://github.com//sweetalert2/sweetalert2/pull/2045) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
 5. 🗣 Commented on [#2044](https://github.com//sweetalert2/sweetalert2/issues/2044) in [sweetalert2/sweetalert2](https://github.com//sweetalert2/sweetalert2)
 <!--END_SECTION:activity-->
 
