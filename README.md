@@ -5,10 +5,10 @@ Become my sponsor and get my gratitude and **personal support** with SweetAlert2
 Sponsors who are contributing with $19/month or more will be listed in https://sweetalert2.github.io 🏆 (100K unique visitors per month!)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2072](https://github.com/sweetalert2/sweetalert2/issues/2072) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-2. 🗣 Commented on [#2072](https://github.com/sweetalert2/sweetalert2/issues/2072) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-3. 🗣 Commented on [#2071](https://github.com/sweetalert2/sweetalert2/issues/2071) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-4. 🗣 Commented on [#2071](https://github.com/sweetalert2/sweetalert2/issues/2071) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+1. ❗️ Opened issue [#2990](https://github.com/FlowCrypt/flowcrypt-browser/issues/2990) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+2. ❗️ Opened issue [#2989](https://github.com/FlowCrypt/flowcrypt-browser/issues/2989) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+3. ❗️ Closed issue [#2072](https://github.com/sweetalert2/sweetalert2/issues/2072) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+4. 🗣 Commented on [#2072](https://github.com/sweetalert2/sweetalert2/issues/2072) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 5. 🗣 Commented on [#2071](https://github.com/sweetalert2/sweetalert2/issues/2071) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 <!--END_SECTION:activity-->
 
