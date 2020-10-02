@@ -9,7 +9,7 @@ Sponsors who are contributing with $19/month or more will be listed in https://s
 2. 🗣 Commented on [#2071](https://github.com/sweetalert2/sweetalert2/issues/2071) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 3. 🗣 Commented on [#2071](https://github.com/sweetalert2/sweetalert2/issues/2071) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 4. 🗣 Commented on [#2071](https://github.com/sweetalert2/sweetalert2/issues/2071) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-5. 🗣 Commented on [#2056](https://github.com/sweetalert2/sweetalert2/issues/2056) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+5. 🗣 Commented on [#2071](https://github.com/sweetalert2/sweetalert2/issues/2071) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 <!--END_SECTION:activity-->
 
 ![](https://github-readme-stats.vercel.app/api?username=limonte&theme=vue&show_icons=true)
