@@ -6,10 +6,10 @@ Sponsors who are contributing with $19/month or more will be listed in https://s
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1986](https://github.com/sweetalert2/sweetalert2/issues/1986) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-2. ❗️ Opened issue [#3002](https://github.com/FlowCrypt/flowcrypt-browser/issues/3002) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
-3. 🗣 Commented on [#1786](https://github.com/sweetalert2/sweetalert2/issues/1786) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-4. 🗣 Commented on [#2075](https://github.com/sweetalert2/sweetalert2/issues/2075) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-5. 🎉 Merged PR [#2075](https://github.com/sweetalert2/sweetalert2/pull/2075) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+2. ❗️ Closed issue [#2077](https://github.com/sweetalert2/sweetalert2/issues/2077) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+3. 🗣 Commented on [#2077](https://github.com/sweetalert2/sweetalert2/issues/2077) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+4. 🗣 Commented on [#1986](https://github.com/sweetalert2/sweetalert2/issues/1986) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+5. ❗️ Opened issue [#3002](https://github.com/FlowCrypt/flowcrypt-browser/issues/3002) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
 <!--END_SECTION:activity-->
 
 ![](https://github-readme-stats.vercel.app/api?username=limonte&theme=vue&show_icons=true)
