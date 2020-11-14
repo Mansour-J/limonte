@@ -6,10 +6,10 @@ Sponsors who are contributing with $19/month or more will be listed in https://s
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3153](https://github.com/FlowCrypt/flowcrypt-browser/issues/3153) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
-2. 💪 Opened PR [#3154](https://github.com/FlowCrypt/flowcrypt-browser/pull/3154) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
-3. 🗣 Commented on [#3151](https://github.com/FlowCrypt/flowcrypt-browser/issues/3151) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
-4. 🗣 Commented on [#3153](https://github.com/FlowCrypt/flowcrypt-browser/issues/3153) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
-5. 💪 Opened PR [#3153](https://github.com/FlowCrypt/flowcrypt-browser/pull/3153) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+2. 🗣 Commented on [#3153](https://github.com/FlowCrypt/flowcrypt-browser/issues/3153) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+3. 💪 Opened PR [#3154](https://github.com/FlowCrypt/flowcrypt-browser/pull/3154) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+4. 🗣 Commented on [#3151](https://github.com/FlowCrypt/flowcrypt-browser/issues/3151) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+5. 🗣 Commented on [#3153](https://github.com/FlowCrypt/flowcrypt-browser/issues/3153) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
 <!--END_SECTION:activity-->
 
 ![](https://github-readme-stats.vercel.app/api?username=limonte&theme=vue&show_icons=true)
