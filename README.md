@@ -5,10 +5,10 @@ Become my sponsor and get my gratitude and **personal support** with SweetAlert2
 Sponsors who are contributing with $19/month or more will be listed in https://sweetalert2.github.io 🏆 (100K unique visitors per month!)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3183](https://github.com/FlowCrypt/flowcrypt-browser/issues/3183) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
-2. 💪 Opened PR [#3182](https://github.com/FlowCrypt/flowcrypt-browser/pull/3182) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
-3. ❗️ Opened issue [#3181](https://github.com/FlowCrypt/flowcrypt-browser/issues/3181) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
-4. 🗣 Commented on [#3149](https://github.com/FlowCrypt/flowcrypt-browser/issues/3149) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+1. 🗣 Commented on [#3149](https://github.com/FlowCrypt/flowcrypt-browser/issues/3149) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+2. ❗️ Opened issue [#3183](https://github.com/FlowCrypt/flowcrypt-browser/issues/3183) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+3. 💪 Opened PR [#3182](https://github.com/FlowCrypt/flowcrypt-browser/pull/3182) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
+4. ❗️ Opened issue [#3181](https://github.com/FlowCrypt/flowcrypt-browser/issues/3181) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
 5. 🗣 Commented on [#3149](https://github.com/FlowCrypt/flowcrypt-browser/issues/3149) in [FlowCrypt/flowcrypt-browser](https://github.com/FlowCrypt/flowcrypt-browser)
 <!--END_SECTION:activity-->
 
