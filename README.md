@@ -7,9 +7,9 @@ Sponsors who are contributing with $19/month or more will be listed in https://s
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2122](https://github.com/sweetalert2/sweetalert2/issues/2122) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 2. 🗣 Commented on [#2122](https://github.com/sweetalert2/sweetalert2/issues/2122) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-3. 💪 Opened PR [#2122](https://github.com/sweetalert2/sweetalert2/pull/2122) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-4. 🗣 Commented on [#2120](https://github.com/sweetalert2/sweetalert2/issues/2120) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-5. 🗣 Commented on [#2121](https://github.com/sweetalert2/sweetalert2/issues/2121) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+3. 🗣 Commented on [#2122](https://github.com/sweetalert2/sweetalert2/issues/2122) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+4. 💪 Opened PR [#2122](https://github.com/sweetalert2/sweetalert2/pull/2122) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+5. 🗣 Commented on [#2120](https://github.com/sweetalert2/sweetalert2/issues/2120) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 <!--END_SECTION:activity-->
 
 ![](https://github-readme-stats.vercel.app/api?username=limonte&theme=vue&show_icons=true)
